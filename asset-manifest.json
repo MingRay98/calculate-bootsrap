@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/calculate-bootsrap/static/css/main.9241637b.chunk.css",
+    "main.js": "/calculate-bootsrap/static/js/main.0175fbe3.chunk.js",
+    "main.js.map": "/calculate-bootsrap/static/js/main.0175fbe3.chunk.js.map",
+    "runtime-main.js": "/calculate-bootsrap/static/js/runtime-main.c189435d.js",
+    "runtime-main.js.map": "/calculate-bootsrap/static/js/runtime-main.c189435d.js.map",
+    "static/css/2.0624914a.chunk.css": "/calculate-bootsrap/static/css/2.0624914a.chunk.css",
+    "static/js/2.b7314561.chunk.js": "/calculate-bootsrap/static/js/2.b7314561.chunk.js",
+    "static/js/2.b7314561.chunk.js.map": "/calculate-bootsrap/static/js/2.b7314561.chunk.js.map",
+    "index.html": "/calculate-bootsrap/index.html",
+    "precache-manifest.99b194c057b5552a3492c9d493a034f4.js": "/calculate-bootsrap/precache-manifest.99b194c057b5552a3492c9d493a034f4.js",
+    "service-worker.js": "/calculate-bootsrap/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/calculate-bootsrap/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.9241637b.chunk.css.map": "/calculate-bootsrap/static/css/main.9241637b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c189435d.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.b7314561.chunk.js",
+    "static/css/main.9241637b.chunk.css",
+    "static/js/main.0175fbe3.chunk.js"
+  ]
+}
