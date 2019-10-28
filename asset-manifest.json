@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/calculate-bootsrap/static/css/main.ebeb6a0a.chunk.css",
-    "main.js": "/calculate-bootsrap/static/js/main.a5c9e6d3.chunk.js",
-    "main.js.map": "/calculate-bootsrap/static/js/main.a5c9e6d3.chunk.js.map",
+    "main.css": "/calculate-bootsrap/static/css/main.fe6043ba.chunk.css",
+    "main.js": "/calculate-bootsrap/static/js/main.4ca7be9d.chunk.js",
+    "main.js.map": "/calculate-bootsrap/static/js/main.4ca7be9d.chunk.js.map",
     "runtime-main.js": "/calculate-bootsrap/static/js/runtime-main.c189435d.js",
     "runtime-main.js.map": "/calculate-bootsrap/static/js/runtime-main.c189435d.js.map",
     "static/css/2.0624914a.chunk.css": "/calculate-bootsrap/static/css/2.0624914a.chunk.css",
     "static/js/2.8422d32a.chunk.js": "/calculate-bootsrap/static/js/2.8422d32a.chunk.js",
     "static/js/2.8422d32a.chunk.js.map": "/calculate-bootsrap/static/js/2.8422d32a.chunk.js.map",
     "index.html": "/calculate-bootsrap/index.html",
-    "precache-manifest.9fca988b7c97e05d946f0f008c241d37.js": "/calculate-bootsrap/precache-manifest.9fca988b7c97e05d946f0f008c241d37.js",
+    "precache-manifest.071ba61d3c98d366036b0d5e8c777fc7.js": "/calculate-bootsrap/precache-manifest.071ba61d3c98d366036b0d5e8c777fc7.js",
     "service-worker.js": "/calculate-bootsrap/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/calculate-bootsrap/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.ebeb6a0a.chunk.css.map": "/calculate-bootsrap/static/css/main.ebeb6a0a.chunk.css.map"
+    "static/css/main.fe6043ba.chunk.css.map": "/calculate-bootsrap/static/css/main.fe6043ba.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c189435d.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.8422d32a.chunk.js",
-    "static/css/main.ebeb6a0a.chunk.css",
-    "static/js/main.a5c9e6d3.chunk.js"
+    "static/css/main.fe6043ba.chunk.css",
+    "static/js/main.4ca7be9d.chunk.js"
   ]
 }
