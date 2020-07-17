@@ -1,8 +1,8 @@
 ## About
 
-New version link: https://mingray98.github.io/calculator-new
-This is a tool.
-You can calculate some number.
+New version link: https://mingray98.github.io/calculator-new  
+This is a tool.  
+You can calculate some number.  
 
 ### Demo 
 
